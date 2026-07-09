@@ -1,5 +1,5 @@
 import React from 'react';
-import "./styles/moviemodel.css";
+import "./styles/MovieModel.css";
 
 const MovieModal = ({movie,closeModel}) => {
     if(!movie) return null;
